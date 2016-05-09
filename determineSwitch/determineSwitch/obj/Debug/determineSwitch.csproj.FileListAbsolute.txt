@@ -1,0 +1,6 @@
+c:\users\kwamejhosef\documents\visual studio 2013\Projects\determineSwitch\determineSwitch\bin\Debug\determineSwitch.exe.config
+c:\users\kwamejhosef\documents\visual studio 2013\Projects\determineSwitch\determineSwitch\bin\Debug\determineSwitch.exe
+c:\users\kwamejhosef\documents\visual studio 2013\Projects\determineSwitch\determineSwitch\bin\Debug\determineSwitch.pdb
+c:\users\kwamejhosef\documents\visual studio 2013\Projects\determineSwitch\determineSwitch\obj\Debug\determineSwitch.csprojResolveAssemblyReference.cache
+c:\users\kwamejhosef\documents\visual studio 2013\Projects\determineSwitch\determineSwitch\obj\Debug\determineSwitch.exe
+c:\users\kwamejhosef\documents\visual studio 2013\Projects\determineSwitch\determineSwitch\obj\Debug\determineSwitch.pdb
